@@ -45,4 +45,4 @@ Wide-ranging skills - maybe not so deep...😉
 
 ![not_yet_IMU_Screenshot](not_yet_IMU_screenshot_url)
 
-**[IMU_Dashboard]** will be a **GUI dashboad of real-time output from an IMU** built with **Python**. This project will develop my skills in **Graphical Storytelling and Telemetry Processing**. I will post the repository [here](not_yet_IMU_repository_link) when it drops. _This one may a while..._
+**[IMU_Dashboard]** will be a **GUI dashboad of real-time output from an IMU** built with **Python**. This project will develop my skills in **Graphical Storytelling and Telemetry Processing**. I will post the repository [here](not_yet_IMU_repository_link) when it drops. _This one may take a while..._
