@@ -9,7 +9,7 @@ I'm an inquisitive retired **Technology Services Implementor** with an interest 
 - 🌱 Currently learning: **UAV Flight control HW/SW, Arduino/Raspberry Pi prototyping, Python**
 - 🔭 Working on: **Exploring autonomous flight/BVLOS flight domains**
 - 🌍 Languages: **Python, C++, SQL, Kotlin, _"Hey kid, wanna try some COBOL?"_**
-- 📫 How to reach me: **biz.gmrawe58@gmail.com**
+- 📫 How to reach me: **biz.gmrawe@gmail.com**
 - ⚡ Fun fact: **Former FIS Alpine ski racing official**
 
 ## My Skills 🧠
